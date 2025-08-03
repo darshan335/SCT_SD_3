@@ -1,4 +1,4 @@
-# Sudoku Solver (Task 03) - Java GUI
+# Sudoku Solver (Task 03) - Java GUI---
 
 This project is a Sudoku Solver that allows users to input a Sudoku puzzle using a simple Java Swing GUI and solve it automatically using a backtracking algorithm.
 
